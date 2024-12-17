@@ -9,4 +9,3 @@
 GPU e TPU: Cuda para paralelizar operações em tensores
 
 ## O que é um tensor?
-
